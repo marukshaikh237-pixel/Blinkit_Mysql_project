@@ -1,4 +1,4 @@
-# Hi, I'm Maruf Shaikh 👋
+# Hi, I'm Maruk Shaikh 👋
 
 ### Data Science Student | GenAI Enthusiast | Aspiring ML Engineer
 
